@@ -1,4 +1,4 @@
-#ChefCode: Um livro de receitas virtuais
+ChefCode: Um livro de receitas virtuais
 
 O chefcode foi um projeto acadêmico desenvolvido pela discente Letícia Taylane na linguagem Python para o curso de Sistemas de Informação na Universidade Federal do Rio Grande do Norte (UFRN).
 
